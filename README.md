@@ -5,6 +5,7 @@
 # Deep Learning
 **PyTorch Tutorial**
 * [Pytorch Crash course](https://www.youtube.com/watch?v=OIenNRt2bjg&ab_channel=AssemblyAI)
+  * [Colab](https://colab.research.google.com/drive/1eiUBpmQ4m7Lbxqi2xth1jBaL61XTKdxp?usp=sharing)
 * [How I would learn Machine Learning (if I could start over)](https://www.youtube.com/watch?v=wtolixa9XTg&ab_channel=AssemblyAI)
 * https://pytorch.org/tutorials/
 # Machine Learning
