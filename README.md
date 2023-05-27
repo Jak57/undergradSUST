@@ -1,6 +1,8 @@
 # undergradSUST
 
 # Resources
+* https://github.com/Developer-Y/cs-video-courses
+* https://github.com/ossu/computer-science
 
 # Deep Learning
 **PyTorch Tutorial**
