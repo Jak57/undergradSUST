@@ -4,6 +4,9 @@
 * https://github.com/Developer-Y/cs-video-courses
 * https://github.com/ossu/computer-science
 
+# Compiler Design and Construction
+* https://nptel.ac.in/courses/106108113
+
 # Deep Learning
 **PyTorch Tutorial**
 * [Pytorch Crash course](https://www.youtube.com/watch?v=OIenNRt2bjg&ab_channel=AssemblyAI)
