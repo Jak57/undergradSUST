@@ -14,6 +14,8 @@
 * [How I would learn Machine Learning (if I could start over)](https://www.youtube.com/watch?v=wtolixa9XTg&ab_channel=AssemblyAI)
 * https://pytorch.org/tutorials/
 * [pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq)
+* Transformer
+  * https://www.youtube.com/watch?v=OyFJWRnt_AY&t=125s&ab_channel=PascalPoupart
 # Machine Learning
 * https://cs229.stanford.edu/
 * [CS229 Final Project Spring 2023 public](https://docs.google.com/document/d/1_VKI_hCQ3zj5SaPY_-Tf3hB0wjeKmF_51DYyMk13mTw/edit)
